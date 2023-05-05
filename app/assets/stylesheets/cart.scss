@@ -2,7 +2,10 @@
   tr div {
     width: max-content;
   }
-
+  .alert {
+    background-color: rgb(171, 255, 227);
+    border-radius: 25px;
+  }
   button.stripe-button-el span {
     border-radius: 0.25em;
     border: 0.1em solid rgba(0, 130, 29, 0.8);
